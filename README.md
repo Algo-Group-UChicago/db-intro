@@ -9,11 +9,6 @@ npm install
 npm start
 ```
 
-Run to get all remote branches
-```bash
-git fetch -all
-```
-
 Then open `http://localhost:3000` in your browser.
 
 ## Project Structure

@@ -1,12 +1,17 @@
-# Client-Server Architecture Demo
+# DB Intro Architecture Demo
 
-A simple demonstration of client-server architecture using Node.js and Express.
+A simple demonstration of using various methods of data storage using Node.js and Express.
 
 ## Setup
 
 ```bash
 npm install
 npm start
+```
+
+Run to get all remote branches
+```bash
+git fetch -all
 ```
 
 Then open `http://localhost:3000` in your browser.

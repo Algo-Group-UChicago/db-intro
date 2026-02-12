@@ -4,6 +4,7 @@ package-lock.json
 
 scary_scripts/
 dynamoarn
+dynamoApiKey
 # Logs
 logs
 *.log

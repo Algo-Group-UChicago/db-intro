@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A simple client-server architecture demo for beginners",
   "main": "server.js",
+  "scripts": {
+    "start": "bash scary_scripts/open.sh",
+    "stop": "bash scary_scripts/close.sh"
+  },
   "keywords": [
     "express",
     "demo",
